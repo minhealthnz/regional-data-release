@@ -1,6 +1,6 @@
 # Regional Data Release
 
-This repository contains data tables of indicators from the New Zealand Health Survey using a three-year rolling average, broken down by geographic areas and demographics. For full details about the data, the methodology, and its usage, please visit our website: [Ministry of Health website](https://www.example.com)
+This repository contains data tables of indicators from the New Zealand Health Survey using a three-year rolling average, broken down by geographic areas and demographics. For full details about the data, the methodology, and its usage, please visit our website: [Ministry of Health website](https://www.health.govt.nz/publications/regional-data-release-201112-202324-new-zealand-health-survey)
 
 ## File Structure
 
